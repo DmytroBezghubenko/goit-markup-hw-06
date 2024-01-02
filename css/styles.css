@@ -1180,7 +1180,7 @@ section {
 .checkbox {}
 
 .form-agreement-checkbox {
-    flex: 0 0 auto;
+    flex-shrink: 0;
     width: 16px;
     height: 16px;
     display: inline-flex;
